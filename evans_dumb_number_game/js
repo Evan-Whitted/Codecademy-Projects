@@ -7,9 +7,9 @@ switch (fartTime) {
   console.log('Whoa! You burn?')
   break;
   case 80085:
-  console.log('Bro, are you Steven Hawking? Cuz you\'re like wicked smart!')
+  console.log(`Bro, are you Steven Hawking? Cuz you're like wicked smart!`)
   break;
   default:
-  console.log('Try again, Mama\'s boy.')
+  console.log(`Try again, Mama's boy.`)
   break;
 }
