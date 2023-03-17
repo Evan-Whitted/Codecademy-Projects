@@ -1,0 +1,15 @@
+let fartTime = 80085
+switch (fartTime) {
+  case 69:
+  console.log('Nice! The sex number! Great job')
+  break;
+  case 420:
+  console.log('Whoa! You burn?')
+  break;
+  case 80085:
+  console.log('Bro, are you Steven Hawking? Cuz you\'re like wicked smart!')
+  break;
+  default:
+  console.log('Try again, Mama\'s boy.')
+  break;
+}
